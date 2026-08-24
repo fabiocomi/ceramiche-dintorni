@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 170" role="img" aria-labelledby="title desc">
+<title id="title">Ceramica &amp; Dintorni</title><desc id="desc">Logo tipografico provvisorio ispirato all'insegna del laboratorio.</desc>
+<rect width="620" height="170" fill="none"/>
+<g fill="#536B43">
+  <path d="M84 17c-42 0-65 28-65 60 0 31 23 59 66 59 21 0 40-7 55-20l-13-16c-11 10-25 15-40 15-29 0-45-17-45-38 0-22 16-39 43-39 15 0 28 5 39 15l14-16C124 24 105 17 84 17z"/>
+  <path d="M109 45h35c30 0 50 16 50 42s-20 42-50 42h-35v-16h7V61h-7V45zm31 16h-8v52h8c19 0 31-9 31-26s-12-26-31-26z"/>
+</g>
+<text x="215" y="73" font-family="Georgia,serif" font-size="44" fill="#302B26">Ceramica &amp; Dintorni</text>
+<text x="217" y="104" font-family="Georgia,serif" font-size="20" font-style="italic" fill="#536B43">di Antonietta Gerbino</text>
+<line x1="216" y1="125" x2="405" y2="125" stroke="#536B43" stroke-width="1"/>
+<text x="216" y="147" font-family="Arial,sans-serif" font-size="10" letter-spacing="3.2" fill="#536B43">LABORATORIO ARTIGIANALE · DAL 1877</text>
+</svg>
